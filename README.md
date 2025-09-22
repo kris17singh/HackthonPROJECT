@@ -1,5 +1,5 @@
 # HackthonPROJECT
-Demo Prototype
+Demo Prototype will only run locally on your machine
 
 ## BrightPath
 
