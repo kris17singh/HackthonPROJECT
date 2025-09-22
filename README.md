@@ -3,8 +3,6 @@ Demo Prototype will only run locally on your machine
 
 ## BrightPath
 
-Backend: Node.js + Express + lowdb. Frontend: React + Vite + TailwindCSS.
-
 ### Prerequisites
 - Node.js 18+
 
