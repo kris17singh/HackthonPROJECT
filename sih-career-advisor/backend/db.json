@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "id": "_d7xT3LpHPNLfAeLpjyUZ",
+      "name": "krishsingh",
+      "email": "krishsingh98906@gmail.com",
+      "createdAt": "2025-09-15T18:27:11.410Z"
+    },
+    {
+      "id": "3TfnqcnHLUqSWRrVzVzzj",
+      "name": "krishsingh",
+      "email": "krisshignh@gamil.com",
+      "createdAt": "2025-09-15T18:29:35.580Z"
+    },
+    {
+      "id": "ZQmRu7R_2WknWhF9N_ITc",
+      "name": "krishisingh",
+      "email": "krishsingh@gmail.com",
+      "createdAt": "2025-09-15T18:31:50.179Z"
+    },
+    {
+      "id": "RiA2fU51owzVnPyyWL74X",
+      "name": "krishsingh",
+      "email": "krishsingh@gamil.com",
+      "createdAt": "2025-09-15T18:33:39.242Z"
+    },
+    {
+      "id": "n88UWeOcylKsX50Zz1T1L",
+      "name": "krishsingh",
+      "email": "krishsignh@gmail.com",
+      "createdAt": "2025-09-15T18:39:14.982Z"
+    },
+    {
+      "id": "860ybTEb2GqzHRY6h1OAs",
+      "name": "krishsingh",
+      "email": "krishsingh@gamilc.om",
+      "createdAt": "2025-09-17T15:12:48.484Z"
+    }
+  ],
+  "dashboards": [
+    {
+      "id": "_d7xT3LpHPNLfAeLpjyUZ",
+      "welcome": "Welcome, krishsingh!",
+      "recentActivities": []
+    },
+    {
+      "id": "3TfnqcnHLUqSWRrVzVzzj",
+      "welcome": "Welcome, krishsingh!",
+      "recentActivities": []
+    },
+    {
+      "id": "ZQmRu7R_2WknWhF9N_ITc",
+      "welcome": "Welcome, krishisingh!",
+      "recentActivities": []
+    },
+    {
+      "id": "RiA2fU51owzVnPyyWL74X",
+      "welcome": "Welcome, krishsingh!",
+      "recentActivities": []
+    },
+    {
+      "id": "n88UWeOcylKsX50Zz1T1L",
+      "welcome": "Welcome, krishsingh!",
+      "recentActivities": []
+    },
+    {
+      "id": "860ybTEb2GqzHRY6h1OAs",
+      "welcome": "Welcome, krishsingh!",
+      "recentActivities": []
+    }
+  ],
+  "chats": [
+    {
+      "id": "APhGxcWsSuiQu_FzX5I0X",
+      "studentId": "_d7xT3LpHPNLfAeLpjyUZ",
+      "user": "hii",
+      "bot": "Mock reply to: hii",
+      "createdAt": "2025-09-15T18:27:19.235Z"
+    },
+    {
+      "id": "GCHKGWDYyk5zVYCxFwdGR",
+      "studentId": "3TfnqcnHLUqSWRrVzVzzj",
+      "user": "hii",
+      "bot": "Mock reply to: hii",
+      "createdAt": "2025-09-15T18:29:43.162Z"
+    },
+    {
+      "id": "Ft_v0KyGrijTnQSB48783",
+      "studentId": "3TfnqcnHLUqSWRrVzVzzj",
+      "user": "goodmorning",
+      "bot": "Mock reply to: goodmorning",
+      "createdAt": "2025-09-15T18:29:54.253Z"
+    },
+    {
+      "id": "_yZ4ReJRlEFgbheDUOFuz",
+      "studentId": "3TfnqcnHLUqSWRrVzVzzj",
+      "user": "hello yagan",
+      "bot": "Mock reply to: hello yagan",
+      "createdAt": "2025-09-15T18:30:18.557Z"
+    },
+    {
+      "id": "qv3zN5RgMXKKoX4FWf_-U",
+      "studentId": "ZQmRu7R_2WknWhF9N_ITc",
+      "user": "Suggest internships",
+      "bot": "Mock reply to: Suggest internships",
+      "createdAt": "2025-09-15T18:43:16.974Z"
+    },
+    {
+      "id": "aQaWs8y2QBaSaZ0FhXMVQ",
+      "studentId": "ZQmRu7R_2WknWhF9N_ITc",
+      "user": "Roadmap for higher studies",
+      "bot": "Mock reply to: Roadmap for higher studies",
+      "createdAt": "2025-09-15T18:43:22.154Z"
+    },
+    {
+      "id": "pbt9GWKRJmMnTX1fMBw3P",
+      "studentId": "860ybTEb2GqzHRY6h1OAs",
+      "user": "hiii",
+      "bot": "Mock reply to: hiii",
+      "createdAt": "2025-09-17T15:13:05.580Z"
+    },
+    {
+      "id": "EDDdlZWoo0PYvU1vop7wq",
+      "studentId": "860ybTEb2GqzHRY6h1OAs",
+      "user": "hello",
+      "bot": "Mock reply to: hello",
+      "createdAt": "2025-09-17T15:13:11.303Z"
+    },
+    {
+      "id": "mPBGDPnPtRGCl-T-xSZ1L",
+      "studentId": "860ybTEb2GqzHRY6h1OAs",
+      "user": "Roadmap for higher studies",
+      "bot": "Mock reply to: Roadmap for higher studies",
+      "createdAt": "2025-09-17T15:13:21.208Z"
+    }
+  ],
+  "mentors": [
+    {
+      "id": "XrON-9hHQbxDyEXcMI_gv",
+      "name": "Anita Sharma",
+      "domain": "Software",
+      "yearsExperience": 8
+    },
+    {
+      "id": "mDMJzkBMrUdkXkswCEsR4",
+      "name": "Rahul Mehta",
+      "domain": "Data Science",
+      "yearsExperience": 6
+    },
+    {
+      "id": "w57rpvjzpS2JBRRC7oQN5",
+      "name": "Priya Nair",
+      "domain": "Electrical",
+      "yearsExperience": 10
+    }
+  ],
+  "resumes": [
+    {
+      "id": "Rk3o2HsqgYdPQ4JwahLMA",
+      "studentId": "ZQmRu7R_2WknWhF9N_ITc",
+      "content": "Mock resume for ZQmRu7R_2WknWhF9N_ITc with details: \"software\\n\"",
+      "createdAt": "2025-09-15T18:43:39.999Z"
+    },
+    {
+      "id": "L-jQPdxGEt3gY2zLPlWUl",
+      "studentId": "ZQmRu7R_2WknWhF9N_ITc",
+      "content": "Mock resume for ZQmRu7R_2WknWhF9N_ITc with details: \"software\\n\"",
+      "createdAt": "2025-09-15T18:43:44.499Z"
+    }
+  ],
+  "interviews": [
+    {
+      "id": "UcijAGDl8LSfh_1BAle0A",
+      "studentId": "3TfnqcnHLUqSWRrVzVzzj",
+      "topic": "general",
+      "questions": [
+        "Tell me about a project related to your field.",
+        "What was the biggest challenge and how did you overcome it?",
+        "Explain a complex concept in simple terms."
+      ],
+      "createdAt": "2025-09-15T18:30:34.599Z"
+    },
+    {
+      "id": "F6JKxe8DfnUSYskA5oOlq",
+      "studentId": "ZQmRu7R_2WknWhF9N_ITc",
+      "topic": "software ",
+      "questions": [
+        "Tell me about a project related to software .",
+        "What was the biggest challenge and how did you overcome it?",
+        "Explain a complex concept in simple terms."
+      ],
+      "createdAt": "2025-09-15T18:32:18.361Z"
+    },
+    {
+      "id": "6JfE4xnL83SycC5AeQUdj",
+      "studentId": "RiA2fU51owzVnPyyWL74X",
+      "topic": "software",
+      "questions": [
+        "Tell me about a project related to software.",
+        "What was the biggest challenge and how did you overcome it?",
+        "Explain a complex concept in simple terms."
+      ],
+      "createdAt": "2025-09-15T19:18:53.337Z"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "RiA2fU51owzVnPyyWL74X-mDMJzkBMrUdkXkswCEsR4-1757963918100",
+      "studentId": "RiA2fU51owzVnPyyWL74X",
+      "mentorId": "mDMJzkBMrUdkXkswCEsR4",
+      "date": "2025-09-17",
+      "time": "16:00",
+      "note": "session",
+      "status": "confirmed"
+    }
+  ]
+}
